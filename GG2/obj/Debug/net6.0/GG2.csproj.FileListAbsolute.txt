@@ -1,0 +1,14 @@
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\bin\Debug\net6.0\GG2.exe
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\bin\Debug\net6.0\GG2.deps.json
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\bin\Debug\net6.0\GG2.runtimeconfig.json
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\bin\Debug\net6.0\GG2.dll
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\bin\Debug\net6.0\GG2.pdb
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.AssemblyInfoInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.AssemblyInfo.cs
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.csproj.CoreCompileInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.dll
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\refint\GG2.dll
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.pdb
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\GG2.genruntimeconfig.cache
+C:\Users\nfrol\Desktop\Prog.sln\GG2\GG2\obj\Debug\net6.0\ref\GG2.dll
